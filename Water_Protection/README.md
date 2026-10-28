@@ -21,6 +21,11 @@ These aren’t the only solutions, but these are some of the ideas that you can 
 | Potential Solutions | Description | Resources |
 |:---------|:------------|:----------|
 | **Rainwater Harvesting Solutions on buildings** | Using barrels and containers |Roof catchment systems 
+| **Recycling Graywater** | Treating lightly contaminated water (from sinks and showers) for other uses (watering plants, flush toilets, etc.).|Greywater filtration systems  
+| **Adding/building storm gardens/ artificial wetlands** |Building stormwater gardens to manage storm water run-off. It also has the added benefit of improving biodiversity. |City of Waterloo Stormwater management plan. 
+| **Add more permeable surfaces across campus** |Permeable pavement can help control water runoff. This also means reducing the amount of paved road surface on campus. |Permeable concrete and permeable pavers 
+| **Improve water fixtures across campus** |Modifying and refitting plumbing across campus  |Low flow faucets/shower heads 
+| **Instrumentation** |Environmental sensors are implemented on campus to track indicators of sustainability, consumption, and pollution. |Arduinos, other sensors, and data analysis. Examples: electrical conductivity, Air quality, Traffic.
 
 ## Resources
 - https://uwaterloo.ca/sustainability/education-and-research   
