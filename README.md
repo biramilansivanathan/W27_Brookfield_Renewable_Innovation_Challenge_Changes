@@ -50,6 +50,9 @@ For more information and a step-by-step guide on how to implement various tools 
 
 The University of Waterloo is working to reconcile the need for reliable campus-wide mobility with its environmental goals, specifically targeting a 25% reduction in fleet fossil fuel consumption from 2015 levels. As the campus grows, the university must address air pollution and the "first and last mile" connectivity gaps that often lead students and staff to rely on carbon-intensive personal vehicles.
 
+## Water Protection
+Your challenge is to propose a solution to improve the sustainability, resilience, or efficiency of water systems at the University of Waterloo.  Teams may focus on water conservation, stormwater management, water reuse, water quality protection, reducing the impacts of salt use, or improving water monitoring and infrastructure management. Solutions should be technically feasible, economically viable, and capable of delivering measurable environmental benefits. 
+
 ### Challenge
 
 Your task is to develop a practical, scalable solution ranging from software platforms and optimization algorithms to hardware prototypes or infrastructure plans that slashes vehicle emissions. Successful proposals should integrate with existing campus or municipal systems to streamline transportation for the community while providing measurable sustainability and accessibility outcomes. 
