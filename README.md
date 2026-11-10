@@ -50,14 +50,21 @@ For more information and a step-by-step guide on how to implement various tools 
 
 The University of Waterloo is working to reconcile the need for reliable campus-wide mobility with its environmental goals, specifically targeting a 25% reduction in fleet fossil fuel consumption from 2015 levels. As the campus grows, the university must address air pollution and the "first and last mile" connectivity gaps that often lead students and staff to rely on carbon-intensive personal vehicles.
 
-## Water Protection
-Your challenge is to propose a solution to improve the sustainability, resilience, or efficiency of water systems at the University of Waterloo.  Teams may focus on water conservation, stormwater management, water reuse, water quality protection, reducing the impacts of salt use, or improving water monitoring and infrastructure management. Solutions should be technically feasible, economically viable, and capable of delivering measurable environmental benefits. 
-
 ### Challenge
 
 Your task is to develop a practical, scalable solution ranging from software platforms and optimization algorithms to hardware prototypes or infrastructure plans that slashes vehicle emissions. Successful proposals should integrate with existing campus or municipal systems to streamline transportation for the community while providing measurable sustainability and accessibility outcomes. 
 
 For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Sustainable Transportation Systems Folder](./Sustainable_Transportation_Systems).
+
+---
+
+## 💧 Water Protection
+Water has become a pressing problem in the last decades, with experts warning that human activities causing pollution and climate change are drastically changing the water cycles we depend on for life. Water is one of the University of Waterloo's most important resources, supporting building operations, research activities, cooling and heating infrastructure, laboratories, residence facilities, landscaping, and daily campus life. In 2025, the University used approximately 648,936 m³ of water, representing a significant demand on regional water resources. Moreover, the Region of Waterloo is currently facing a water capacity crisis which led to the halting of new development in the region in 2026.  We need to find ways to make water consumption more sustainable, to ensure food and water security and the continuation of life.
+
+### Challenge
+Your challenge is to propose a solution to improve the sustainability, resilience, or efficiency of water systems at the University of Waterloo.  Teams may focus on water conservation, stormwater management, water reuse, water quality protection, reducing the impacts of salt use, or improving water monitoring and infrastructure management. Solutions should be technically feasible, economically viable, and capable of delivering measurable environmental benefits.
+
+For more information and a step-by-step guide on how to implement various tools into your solution, check out the [Water_Protection Folder](./Water_Protection).
 
 ---
 
