@@ -1,4 +1,4 @@
-# Welcome to the 2026 Brookfield Renewable Innovation Challenge!  
+# Welcome to the 2027 Brookfield Renewable Innovation Challenge!  
 As global temperatures rise and natural resources become increasingly limited, the need for effective climate mitigation and adaptation strategies has never been more urgent. Institutions like the University of Waterloo have a critical role to play in demonstrating innovative, sustainable solutions that reduce environmental impact and strengthen resilience to climate change.  
 
 Brookfield Renewable operates one of the world’s largest publicly traded platforms for renewable power and decarbonization solutions. Their diversified portfolio spans hydroelectric, wind, solar, distributed energy, and sustainable technologies across five continents, driving progress toward a low-carbon future. As a global leader in clean energy innovation, Brookfield Renewable reports that it actively supports initiatives that accelerate the transition to resilient, sustainable communities. 
