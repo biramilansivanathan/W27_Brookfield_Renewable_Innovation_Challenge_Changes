@@ -16,7 +16,7 @@ In addition to reducing emissions, teams should consider how transportation syst
 
 Your proposal should balance sustainability, accessibility, safety, cost-effectiveness, and user experience. Consider how your solution can contribute not only to reduced greenhouse gas emissions and fossil-fuel consumption, but also to improved air quality, enhanced biodiversity, better land stewardship, and increased climate resilience across the campus landscape. 
 
-You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges. 
+You need to communicate the details of your design to the judges. Your solution could include drawings, models, simulations, prototypes, or anything you think is useful for communicating your ideas. Please refer to the judging rubric and presentation instructions when planning your final presentation to the judges.
 
 ## Potential Solutions
 These aren’t the only solutions, but these are some of the ideas that you can take inspiration from. Feel free to mix and match any potential solutions if you feel that it is appropriate.
