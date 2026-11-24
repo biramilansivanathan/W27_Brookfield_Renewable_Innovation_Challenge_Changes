@@ -16,15 +16,21 @@ Proposed solutions should consider technical and economic feasibility, community
 - Environmental Sustainability Strategy 
 - Campus Plan 
 
-## Your Mission
+## Campus Sustainability Goals 
+Your team will need to select one (or more) goals to pursue. 
+### Climate Action 
+Climate action involves reducing greenhouse gas emissions and supporting the transition to a low-carbon future. In Canada, this includes improving energy efficiency, adopting renewable energy, electrifying vehicle fleets, expanding public transit, reducing waste, purchasing sustainable products, and supporting green building design. These actions help address challenges such as wildfires, floods, extreme weather, and rising temperatures while contributing to a more sustainable and resilient future.
 
-Your team is tasked with developing actionable strategies that address key emission sources within UW’s campus infrastructure, such as energy systems, buildings, or transportation, while also improving the university’s capacity to adapt to climate extremes. You will be creating a solution that can be deployed on campus within 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility, and the project’s long-term contribution to decarbonizing campus.  
+### Climate Resilience 
+Climate resilience is the ability of communities, infrastructure, and natural systems to prepare for, adapt to, and recover from climate-related impacts. Canadian resilience efforts include flood mitigation, climate-smart infrastructure, emergency preparedness, urban tree planting, stormwater management improvements, drought planning, and incorporating climate risks into long-term decision-making. These measures help protect public safety, reduce disruptions, and support community well-being in a changing climate.
 
-Proposed solutions should consider technical and economic feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a decarbonized future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas —  to deliver a compelling, well-supported solution by the end of the weekend!  
+### Thriving Ecosystems 
+Thriving ecosystems are healthy, diverse natural environments that support biodiversity, clean water, clean air, and climate regulation. In Canada, protecting and restoring forests, wetlands, grasslands, rivers, pollinator habitats, and coastal areas helps strengthen ecological health and climate resilience. Activities such as habitat restoration, invasive species management, sustainable land stewardship, native species planting, and watershed protection contribute to healthy ecosystems that benefit both nature and communities. 
 
 ---
 
 ## Sub-Problems
+Your team will need to select one (or more) sub-problems to address. Your proposed solution will live at the intersection of your chosen sustainability goal(s) and at least one of the sub-problems listed below. 
 
 ## 🏘 Building Performance
 
