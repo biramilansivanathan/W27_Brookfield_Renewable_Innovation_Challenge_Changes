@@ -93,6 +93,55 @@ For more information and a step-by-step guide on how to implement various tools 
 
 ---
 
-## Presentation Slides Submission
+## Presentation Format
+Final presentations to judges will be 5 minutes long with an additional 5 minutes for questions from the judges.   
+
+The United Nations Sustainable Development Goals (SDGs) are a global framework of 17 interconnected goals adopted in 2015 to address social, economic, and environmental challenges by 2030. They promote poverty reduction, quality education, gender equality, clean energy, sustainable communities, responsible consumption, climate action, and ecosystem protection. In Canada, the SDGs help guide governments, businesses, Indigenous communities, institutions, and non-profit organizations in advancing sustainability while improving quality of life. The goals recognize that economic prosperity, social inclusion, and environmental stewardship are linked, encouraging collaborative action to create a more equitable, resilient, and sustainable future for current and future generations. 
+
+Your presentation must include:  
+- the SDGs that are relevant to your project. 
+- The problem you are tackling and the specific site(s) on campus  
+- An overview of your solution(s). Include pictures/screen captures of any prototypes, models, or drawings of your solution 
+- A discussion on the impact of the proposed solution on the University of Waterloo’s goals 
+- An overview of the economics of the project 
+- Disclosure of how genAI tools were used for any task during the Challenge. 
+- Make sure you pay attention to the judging criteria when you are putting your presentation together! 
 
 From each group, please submit the group number, solution title and description, and your presentation slides using [this form](https://forms.office.com/r/xAKjnD8DTv).
+
+## Judging Criteria
+Ideation:
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| Justification | Why is this problem worth solving?  | /10 |
+| Innovation | How innovative is the solution? | /10 |
+
+Execution: 
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| Feasibility | Is the solution technically feasible? Is there precedence for the proposed design?   | /10 |
+| Deployability | Can the idea be plausibly implemented in 3-5 years? Is the solution easy to implement? | /10 |
+| Non-technical criteria | Have they considered non-technical criteria (e.g. aesthetics, impacts on health, culture, policy, inclusivity, etc.). Does the solution meet the needs of campus users?  | /10 |
+
+Impact:
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| Impact| How impactful is the solution on campus sustainability goals in the short, medium, and long term? | /10 |
+| Use of data | How is impact measured? What data were used?  | /10 |
+| Economic efficiency | Does the project achieve strong “bang for the buck”? What are the capital costs? What are the impacts upon operating costs? | /10 |
+
+Demo/Pitch/Presentation:  
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| Clarity | How clear was the presentation in terms of explanation? | /10 |
+| Depth| as the extent of the team's knowledge thoroughly expressed? | /10 |
+
+SDGs:  
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| Inclusion | Were the relevant SDGs to their project included in the presentation? Was the relevance explained and/or clear?  | /10 |
+
+AI Usage:
+| Category | What judges are looking for | Score |
+| --- | --- | --- |
+| AI Usage | How significant was GenAI in the team's development of their solution or in the functionality of the solution? | /10 |
