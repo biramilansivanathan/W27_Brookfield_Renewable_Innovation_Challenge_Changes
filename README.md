@@ -1,4 +1,19 @@
-# Welcome to the 2027 Brookfield Renewable Innovation Challenge!  
+# Welcome to the 2027 Brookfield Renewable Innovation Challenge!
+
+## Table of Contents
+- [Problem Introduction](#problem-introduction)
+- [Challenge Description](#challenge-description)
+- [Campus Sustainability Goals](#campus-sustainability-goals)
+- [Subproblems](#subproblems)
+  -[Building Performance](#building-performance)
+  -[Sustainable Energy Systems](#sustainable-energy-systems)
+  -[Sustainable Transportation Systems](#sustainable-transportation-systems)
+  -[Water Protection](#water-protection)
+- [General Resources](#general-resources)
+- [Presentation Format](#presentation-format)
+- [Judging Criteria](#judging-criteria)
+
+## Problem Introduction
 As global temperatures rise, biodiversity declines, and natural resources become increasingly limited, the need for effective climate mitigation, climate adaptation, and ecosystem protection strategies has never been more urgent. Institutions like the University of Waterloo have a critical role to play in demonstrating innovative, sustainable solutions that reduce environmental impact, strengthen resilience to climate change, and safeguard the natural systems that support healthy communities and economies. Through leadership in research, operations, education, and community engagement, universities can help accelerate the transition to a low-carbon future while protecting and restoring ecosystems that provide essential services such as carbon sequestration, water filtration, flood mitigation, and biodiversity conservation. 
 
 Brookfield Renewable operates one of the world’s largest publicly traded platforms for renewable power and decarbonization solutions. Their diversified portfolio spans hydroelectric, wind, solar, distributed energy, and sustainable technologies across five continents, driving progress toward a low-carbon future. As a global leader in clean energy innovation, Brookfield Renewable reports that it actively supports initiatives that accelerate the transition to resilient, sustainable communities. 
@@ -10,11 +25,6 @@ The University of Waterloo is seeking  transformative, campus-wide solutions
 Your team is tasked with developing actionable strategies that would progress one of the three campus sustainability goals within UW’s campus infrastructure: buildings, energy systems, transportation systems, and water systems. You will be creating a solution that can be deployed on campus in 3-5 years, with positive impacts until 2050. While there are no budget limitations for your proposed projects, proposed solutions should consider a reasonable balance between resources spent, technical feasibility and the project’s long-term contribution to decarbonizing campus.  
 
 Proposed solutions should consider technical and economic feasibility, community acceptance, and long-term sustainability, integrating innovative ideas that align with society’s vision for a sustainable future. Your team must hit the ground running — analysing data, exploring campus sites, and refining your ideas —  to deliver a compelling, well-supported solution by the end of the weekend!  
-
-### General Resources: 
-- Environmental Sustainability Report 
-- Environmental Sustainability Strategy 
-- Campus Plan 
 
 ## Campus Sustainability Goals 
 Your team will need to select one (or more) goals to pursue. 
